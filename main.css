@@ -1,0 +1,120 @@
+html{
+    scroll-behavior: smooth;
+}
+*{
+    box-sizing: border-box;
+}
+body{
+    width: 100vw;
+    height: auto;
+    min-height: 100vh;
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+    background-color: ghostwhite;
+}
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+    margin: 60px;
+}
+
+.set1 {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.box1,
+.box2,
+.box3,
+.box4,
+.box5,
+.box6,
+.box7,
+.box8,
+.box9,
+.box10,
+.box11,
+.box12,
+.box13,
+.box14,
+.box15,
+.box16
+{
+    width: 200px;
+    height: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.box1
+{
+    background-image: url(https://images.pexels.com/photos/1629781/pexels-photo-1629781.jpeg?auto=compress&cs=tinysrgb&dpr=0.9&h=200&w=1260);   
+}
+.box2
+{
+    background-image: url(https://images.pexels.com/photos/209620/pexels-photo-209620.jpeg?auto=compress&cs=tinysrgb&dpr=0.9&h=200);
+}
+.box3
+{
+    background-image: url(https://images.pexels.com/photos/1990/man-person-people-emotions.jpg?auto=compress&cs=tinysrgb&dpr=0.9&h=200);
+}
+.box4
+{
+    background-image: url(https://images.pexels.com/photos/2233442/pexels-photo-2233442.jpeg?auto=compress&cs=tinysrgb&dpr=0.9&h=200);
+}
+.box5
+{
+    background-image: url(https://images.pexels.com/photos/160846/french-bulldog-summer-smile-joy-160846.jpeg?auto=compress&cs=tinysrgb&dpr=0.9&h=200);
+}
+.box6
+{
+    background-image: url(https://images.pexels.com/photos/1105191/pexels-photo-1105191.jpeg?auto=compress&cs=tinysrgb&dpr=0.9&h=200);
+}
+.box7
+{
+    background-image: url(https://images.pexels.com/photos/137049/pexels-photo-137049.jpeg?auto=compress&cs=tinysrgb&dpr=0.9&h=200);
+}
+.box8
+{
+    background-image: url(https://images.pexels.com/photos/825949/pexels-photo-825949.jpeg?auto=compress&cs=tinysrgb&dpr=0.9&h=200);
+}
+.box9
+{
+    background-image: url(https://images.pexels.com/photos/2647053/pexels-photo-2647053.jpeg?auto=compress&cs=tinysrgb&dpr=0.9&h=200);
+}
+.box10
+{
+    background-image: url(https://images.pexels.com/photos/208147/pexels-photo-208147.jpeg?auto=compress&cs=tinysrgb&dpr=0.9&h=200);
+}
+.box11
+{
+    background-image: url(https://images.pexels.com/photos/551628/pexels-photo-551628.jpeg?auto=compress&cs=tinysrgb&dpr=0.9&h=200);
+}
+.box12
+{
+    background-image: url(https://images.pexels.com/photos/171183/pexels-photo-171183.jpeg?auto=compress&cs=tinysrgb&dpr=0.9&h=200);
+}
+.box13
+{   
+    background-image: url(https://images.pexels.com/photos/6249408/pexels-photo-6249408.jpeg?auto=compress&cs=tinysrgb&dpr=0.9&h=200);
+}
+.box14
+{
+    background-image: url(https://images.pexels.com/photos/6266245/pexels-photo-6266245.jpeg?auto=compress&cs=tinysrgb&dpr=0.9&h=200);
+}
+.box15
+{
+    background-image: url(https://images.pexels.com/photos/1543793/pexels-photo-1543793.jpeg?auto=compress&cs=tinysrgb&dpr=0.9&h=200);
+}
+.box16
+{
+    background-image: url(https://images.pexels.com/photos/422212/pexels-photo-422212.jpeg?auto=compress&cs=tinysrgb&dpr=0.9&h=200);
+}
